@@ -3,30 +3,30 @@
 Welcome to my GitHub profile! I'm a passionate developer, always exploring new technologies, building innovative projects, and collaborating with the community. Here's a little about me:
 
 ### 🚀 About Me
-- 🔭 I’m currently working on developing scalable systems and microservices.
-- 🌱 I’m currently learning advanced AI, machine learning algorithms, and Docker.
-- 👯 I’m looking to collaborate on exciting open-source projects and innovative tech solutions.
-- 🤔 I’m looking for help with mastering DevOps tools and cloud technologies.
-- 💬 Ask me about algorithms, data structures, backend development, or my favorite tech stack!
+- 🔭 I’m currently working on developing scalable microservices and AI-driven platforms.
+- 🌱 I’m currently learning advanced machine learning algorithms and DevOps best practices.
+- 👯 I’m looking to collaborate on open-source projects that aim to make a positive impact.
+- 🤔 I’m looking for help with mastering cloud technologies and scalable architecture.
+- 💬 Ask me about backend development, data structures, or my favorite coding challenges!
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: When I'm not coding, you can find me playing the piano or experimenting with new AI models.
+- ⚡ Fun fact: When I'm not coding, you can find me experimenting with sound design or hiking in the mountains.
 
 ### 🛠️ My Tech Toolbox
 Here are some of the technologies I love to work with:
-- **Languages**: Python, JavaScript, C++, Zig, Kotlin
-- **Frameworks**: Django, Laravel, Vue.js, React
-- **DevOps Tools**: Docker, Kubernetes, AWS, GitHub Actions
-- **Other Skills**: Ethical Hacking, Networking Protocols, Data Science
+- **Languages**: Python, JavaScript, Go, Rust, Kotlin
+- **Frameworks**: Flask, Spring Boot, Angular, Svelte
+- **DevOps Tools**: Docker, Kubernetes, Jenkins, Terraform
+- **Other Skills**: Ethical Hacking, Cybersecurity, AI Model Training
 
 ### 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourusername) — Let's connect professionally!
-- 🌐 [Website](https://yourwebsite.com) — Discover more about my projects.
-- 📧 [Email](mailto:youremail@example.com) — Feel free to reach out for collaboration or just a friendly chat!
+- 💼 [LinkedIn](https://www.linkedin.com/in/pedrocantu) — Let's connect professionally!
+- 🌐 [Website](https://pedrocantu.dev) — Discover more about my projects.
+- 📧 [Email](mailto:contact@pedrocantu.dev) — Feel free to reach out for collaboration or just a friendly chat!
 
-[![Twitter Badge](https://img.shields.io/badge/-@PedroCantuDev-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/yourusername)](https://twitter.com/yourusername) 
-[![Linkedin Badge](https://img.shields.io/badge/-Pedro_Cantú-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername) 
+[![Twitter Badge](https://img.shields.io/badge/-@PedroCantu-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/pedrocantu)](https://twitter.com/pedrocantu) 
+[![Linkedin Badge](https://img.shields.io/badge/-Pedro_Cantú-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrocantu) 
 [![GitHub Badge](https://img.shields.io/badge/-PedroCantuDev-333?style=flat&labelColor=333&logo=github&logoColor=white)](https://github.com/PedroCantu-Dev) 
-[![Mail Badge](https://img.shields.io/badge/-Pedro_Cantú-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![Mail Badge](https://img.shields.io/badge/-Pedro_Cantú-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:contact@pedrocantu.dev)
 
 ### 📊 GitHub Stats
 <div align="center">
@@ -35,39 +35,39 @@ Here are some of the technologies I love to work with:
 </div>
 
 ### 🎯 Fun Goals
-- 🌐 Build a full-stack project with AI-driven features.
-- 📚 Learn and master the latest trends in cloud computing and DevOps.
-- 🤝 Contribute to meaningful open-source projects and help the developer community grow.
+- 🌐 Build a full-stack AI-powered application that can assist with music composition.
+- 📚 Learn the latest trends in cloud-native technologies and container orchestration.
+- 🤝 Contribute to open-source projects that focus on privacy and data security.
 
 ### 👨‍💻 Current Projects
-- Developing a blogging platform using **Vue.js** and **Laravel**.
-- Building a **multiplatform admin panel** using **Flutter** for mobile app task automation.
-- Experimenting with **Zig** in my open-source educational OS project named **ANHEOS**.
+- Developing a personal finance tracker using **Vue.js** and **Flask**.
+- Building a **mobile app** for hikers to track routes using **React Native**.
+- Experimenting with **Rust** for low-latency data processing.
 
 ### 🏆 Achievements
-- **Hackathon Winner**: Recognized for creating innovative AI solutions.
-- **Published Work**: Authored a paper on **scalable microservices** for modern web applications.
-- **Open Source Contributor**: Actively contributing to several projects on GitHub.
+- **Hackathon Champion**: Recognized for building a smart IoT home automation system.
+- **Published Research**: Authored articles on scalable distributed systems.
+- **Community Contributor**: Active member of open-source communities on GitHub.
 
 ### 📚 Recommended Learning
 - *Designing Data-Intensive Applications* by Martin Kleppmann
-- *The Art of Computer Programming* by Donald Knuth
+- *The Pragmatic Programmer* by Andrew Hunt and David Thomas
 - *You Don't Know JS* by Kyle Simpson
 
 ### 🌱 What I'm Currently Learning
-- Implementing AI models for mobile devices using **Kotlin Multiplatform**.
-- Advanced concepts in **cloud-native** technologies and **DevOps practices**.
-- Understanding **stereo sound techniques** and audio processing in digital applications.
+- Building AI-powered chatbots using natural language processing (NLP).
+- Advanced cybersecurity techniques for secure code practices.
+- Exploring serverless architecture with AWS Lambda.
 
 ### Tutorials and Content
-- Check out my latest content on **DevOps practices** and **AI innovations** on my [YouTube channel](https://youtube.com/channel/yourchannel).
-- Join me as I explore **full-stack development** using **Django** and **Vue.js**.
+- Check out my latest content on **AI and machine learning** on my [YouTube channel](https://youtube.com/channel/fictitious-channel).
+- Join me as I explore **full-stack development** using **Flask** and **React**.
 
 ### Profile Views Counter 👁️‍🗨️
-[![Pedro Cantú profile views](https://u8views.com/api/v1/github/profiles/your-profile-id/views/day-week-month-total-count.svg)](https://u8views.com/github/your-profile-id)
+[![Pedro Cantú profile views](https://u8views.com/api/v1/github/profiles/fictitious-id/views/day-week-month-total-count.svg)](https://u8views.com/github/fictitious-id)
 
-### 📫 Bizness
-- 📄 [My Resume/CV](https://drive.google.com/file/d/your-resume-link/view?usp=sharing)
-- 💼 maksym.rudnyi@gmail.com
+### 📫 Business Inquiries
+- 📄 [My Resume/CV](https://drive.google.com/file/d/fictitious-resume-link/view?usp=sharing)
+- 💼 contact@pedrocantu.dev
 
 Thanks for stopping by! I look forward to connecting with you and creating something awesome together! 🚀
