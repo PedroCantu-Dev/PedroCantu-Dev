@@ -1,6 +1,6 @@
 ## Hi there, I'm Pedro Cantú! 👋
 
-I'm a Computer Engineering graduate with a specialization in Computer Science from the Autonomous University of San Luis Potosí. My passion for computing covers a broad spectrum, from the intricate details of hardware and computer architecture to the ever-evolving world of software development. Here's a little about me:
+I'm a Computer Science Engineering graduate from the Autonomous University of San Luis Potosí (UASLP). My passion for computing covers a broad spectrum, from the intricate details of hardware and computer architecture to the ever-evolving world of software development. Here's a little about me:
 
 ### 🚀 About Me
 - 🔭 I’m currently focused on building a career in **DevSecOps**, ensuring secure and reliable application deployment.
