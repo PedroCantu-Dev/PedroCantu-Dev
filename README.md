@@ -1,6 +1,6 @@
 ## Hi there, I'm Pedro Cantú! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer always looking to explore new technologies, build innovative projects, and collaborate with the community. Here's a little about me:
+Welcome to my GitHub profile! I'm a passionate developer, always exploring new technologies, building innovative projects, and collaborating with the community. Here's a little about me:
 
 ### 🚀 About Me
 - 🔭 I’m currently working on developing scalable systems and microservices.
@@ -23,66 +23,51 @@ Here are some of the technologies I love to work with:
 - 🌐 [Website](https://yourwebsite.com) — Discover more about my projects.
 - 📧 [Email](mailto:youremail@example.com) — Feel free to reach out for collaboration or just a friendly chat!
 
+[![Twitter Badge](https://img.shields.io/badge/-@PedroCantuDev-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/yourusername)](https://twitter.com/yourusername) 
+[![Linkedin Badge](https://img.shields.io/badge/-Pedro_Cantú-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername) 
+[![GitHub Badge](https://img.shields.io/badge/-PedroCantuDev-333?style=flat&labelColor=333&logo=github&logoColor=white)](https://github.com/PedroCantu-Dev) 
+[![Mail Badge](https://img.shields.io/badge/-Pedro_Cantú-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+
 ### 📊 GitHub Stats
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroCantu-Dev&show_icons=true&theme=radical)
+<div align="center">
+<img alt="Pedro's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=PedroCantu-Dev&show_icons=true&theme=radical"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCantu-Dev&layout=compact&langs_count=8"/>
+</div>
 
 ### 🎯 Fun Goals
 - 🌐 Build a full-stack project with AI-driven features.
 - 📚 Learn and master the latest trends in cloud computing and DevOps.
 - 🤝 Contribute to meaningful open-source projects and help the developer community grow.
 
-### 📝 More Ideas to Get You Started
-Here's a list of optional ideas you can include in this README:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-These prompts can help keep your profile fresh and updated as your interests and projects evolve.
-
-### 🌱 What I'm Currently Learning
-- Advanced Data Science techniques
-- Implementing AI models for mobile devices
-- Backend development with scalable architecture
-
-### 🔧 Open to Collaborate On
-- Open-source AI and machine learning projects
-- Scalable microservice architectures
-- Cloud-based application development
-
-### 🚀 My Future Plans
-- Building a technology YouTube channel
-- Developing a digital audio workstation (DAW) application
-- Mastering DevOps practices and container orchestration
-
-### 👨‍💻 How to Get in Touch
-- Connect with me on [Twitter](https://twitter.com/yourusername)
-- Follow my work on [GitHub](https://github.com/PedroCantu-Dev)
+### 👨‍💻 Current Projects
+- Developing a blogging platform using **Vue.js** and **Laravel**.
+- Building a **multiplatform admin panel** using **Flutter** for mobile app task automation.
+- Experimenting with **Zig** in my open-source educational OS project named **ANHEOS**.
 
 ### 🏆 Achievements
-- **Hackathon Winner**: Won the XYZ Hackathon for AI innovations.
-- **Published Research**: Authored a paper on scalable microservices.
+- **Hackathon Winner**: Recognized for creating innovative AI solutions.
+- **Published Work**: Authored a paper on **scalable microservices** for modern web applications.
+- **Open Source Contributor**: Actively contributing to several projects on GitHub.
 
-### 💡 Fun Fact
-- I love working on large systems with multiple microservices interacting together.
-- My favorite tech topics involve data structures, AI algorithms, and cloud computing.
+### 📚 Recommended Learning
+- *Designing Data-Intensive Applications* by Martin Kleppmann
+- *The Art of Computer Programming* by Donald Knuth
+- *You Don't Know JS* by Kyle Simpson
 
-### 🤖 Technologies I Use Frequently
-- **Frontend**: HTML, CSS, JavaScript, Tailwind CSS
-- **Backend**: Node.js, Express.js, Django, Laravel
-- **Databases**: PostgreSQL, MongoDB, MySQL
-- **Tools**: Git, GitHub, Visual Studio Code
+### 🌱 What I'm Currently Learning
+- Implementing AI models for mobile devices using **Kotlin Multiplatform**.
+- Advanced concepts in **cloud-native** technologies and **DevOps practices**.
+- Understanding **stereo sound techniques** and audio processing in digital applications.
 
-### 📚 Recommended Reading List
-- *Clean Code* by Robert C. Martin
-- *The Pragmatic Programmer* by Andrew Hunt and David Thomas
-- *Design Patterns* by Erich Gamma et al.
+### Tutorials and Content
+- Check out my latest content on **DevOps practices** and **AI innovations** on my [YouTube channel](https://youtube.com/channel/yourchannel).
+- Join me as I explore **full-stack development** using **Django** and **Vue.js**.
 
-### ⚡ Quick Tip
-- If you're new to Docker or Kubernetes, start with small projects to understand the basics before diving into complex systems.
+### Profile Views Counter 👁️‍🗨️
+[![Pedro Cantú profile views](https://u8views.com/api/v1/github/profiles/your-profile-id/views/day-week-month-total-count.svg)](https://u8views.com/github/your-profile-id)
+
+### 📫 Bizness
+- 📄 [My Resume/CV](https://drive.google.com/file/d/your-resume-link/view?usp=sharing)
+- 💼 maksym.rudnyi@gmail.com
 
 Thanks for stopping by! I look forward to connecting with you and creating something awesome together! 🚀
