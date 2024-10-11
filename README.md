@@ -1,22 +1,23 @@
 ## Hi there, I'm Pedro Cantú! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer, always exploring new technologies, building innovative projects, and collaborating with the community. Here's a little about me:
+I'm a Computer Engineering graduate with a specialization in Computer Science from the Autonomous University of San Luis Potosí. My passion for computing covers a broad spectrum, from the intricate details of hardware and computer architecture to the ever-evolving world of software development. Here's a little about me:
 
 ### 🚀 About Me
-- 🔭 I’m currently working on developing scalable microservices and AI-driven platforms.
-- 🌱 I’m currently learning advanced machine learning algorithms and DevOps best practices.
-- 👯 I’m looking to collaborate on open-source projects that aim to make a positive impact.
-- 🤔 I’m looking for help with mastering cloud technologies and scalable architecture.
-- 💬 Ask me about backend development, data structures, or my favorite coding challenges!
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: When I'm not coding, you can find me experimenting with sound design or hiking in the mountains.
+- 🔭 I’m currently focused on building a career in **DevSecOps**, ensuring secure and reliable application deployment.
+- 🌱 I’m passionate about continuous improvement in production environments and love automating processes to enhance development workflows.
+- 👯 Although I admire **Artificial Intelligence** and **Data Science**, I see myself as a DevSecOps specialist who occasionally explores these fields as a hobby.
+- 🤖 I have a deep love for hardware and computer architecture but understand that my true career lies in cloud and software automation.
+- ⚙️ I’m fascinated by **cloud services** and enjoy creating scalable solutions using modern infrastructure.
+- 💬 Ask me about deploying secure applications, cloud infrastructure, or my favorite automation tools.
+- 🎶 When I'm not coding, I'm likely making music or working out to maintain a healthy lifestyle.
 
 ### 🛠️ My Tech Toolbox
 Here are some of the technologies I love to work with:
-- **Languages**: Python, JavaScript, Go, Rust, Kotlin
-- **Frameworks**: Flask, Spring Boot, Angular, Svelte
-- **DevOps Tools**: Docker, Kubernetes, Jenkins, Terraform
-- **Other Skills**: Ethical Hacking, Cybersecurity, AI Model Training
+- **Languages**: C (first programming language), Python (for its versatility), C#, PHP
+- **Frameworks**: Entity Framework, Laravel
+- **DevOps Tools**: Docker, Kubernetes, Jenkins, Terraform, GitHub Actions
+- **Cloud Platforms**: AWS, Azure, Google Cloud
+- **Other Skills**: CI/CD pipelines, cloud infrastructure, network security
 
 ### 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/pedrocantu) — Let's connect professionally!
@@ -35,33 +36,28 @@ Here are some of the technologies I love to work with:
 </div>
 
 ### 🎯 Fun Goals
-- 🌐 Build a full-stack AI-powered application that can assist with music composition.
-- 📚 Learn the latest trends in cloud-native technologies and container orchestration.
-- 🤝 Contribute to open-source projects that focus on privacy and data security.
+- 🌐 Continue mastering DevSecOps practices and secure cloud deployment.
+- 📚 Stay updated on AI and data science trends, even if just as a personal interest.
+- 💻 Automate everything from infrastructure setup to application testing.
 
 ### 👨‍💻 Current Projects
-- Developing a personal finance tracker using **Vue.js** and **Flask**.
-- Building a **mobile app** for hikers to track routes using **React Native**.
-- Experimenting with **Rust** for low-latency data processing.
+- Building a **DevSecOps pipeline** for scalable microservices.
+- Experimenting with **cloud-native** solutions to improve deployment speed.
+- Working on **music production** as a creative outlet when not immersed in code.
 
 ### 🏆 Achievements
-- **Hackathon Champion**: Recognized for building a smart IoT home automation system.
-- **Published Research**: Authored articles on scalable distributed systems.
-- **Community Contributor**: Active member of open-source communities on GitHub.
-
-### 📚 Recommended Learning
-- *Designing Data-Intensive Applications* by Martin Kleppmann
-- *The Pragmatic Programmer* by Andrew Hunt and David Thomas
-- *You Don't Know JS* by Kyle Simpson
+- Successfully transitioned multiple applications to secure cloud environments using CI/CD pipelines.
+- Hands-on experience with **C**, **Python**, and **DevSecOps** practices in real-world projects.
+- **Community Contributor**: Passionate about sharing knowledge on secure software development.
 
 ### 🌱 What I'm Currently Learning
-- Building AI-powered chatbots using natural language processing (NLP).
-- Advanced cybersecurity techniques for secure code practices.
-- Exploring serverless architecture with AWS Lambda.
+- Advanced concepts in **cloud-native** security and infrastructure as code (IaC).
+- Exploring the latest trends in **DevSecOps** methodologies for continuous security.
+- Delving into AI projects for fun to broaden my understanding of data analytics.
 
 ### Tutorials and Content
-- Check out my latest content on **AI and machine learning** on my [YouTube channel](https://youtube.com/channel/fictitious-channel).
-- Join me as I explore **full-stack development** using **Flask** and **React**.
+- Sharing my DevSecOps journey on [YouTube](https://youtube.com/channel/fictitious-channel) soon!
+- Blog posts and guides on secure software development will be available on my website.
 
 ### Profile Views Counter 👁️‍🗨️
 [![Pedro Cantú profile views](https://u8views.com/api/v1/github/profiles/fictitious-id/views/day-week-month-total-count.svg)](https://u8views.com/github/fictitious-id)
