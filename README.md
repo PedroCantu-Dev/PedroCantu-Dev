@@ -1,3 +1,4 @@
+![Design and Development](https://avatars.githubusercontent.com/u/84336000?s=400&u=ad7126aa8d314fe72a548a6c983a4d2bb716de16&v=4)
 ## Hi there, I'm Pedro Cantú! 👋
 
 I'm a Computer Science Engineering graduate from the Autonomous University of San Luis Potosí (UASLP). My passion for computing covers a broad spectrum, from the intricate details of hardware and computer architecture to the ever-evolving world of software development. Here's a little about me:
