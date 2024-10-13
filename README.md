@@ -1,4 +1,4 @@
-![Design and Development](https://avatars.githubusercontent.com/u/84336000?s=400&u=ad7126aa8d314fe72a548a6c983a4d2bb716de16&v=4)
+![Cover Picture]()
 ## Hi there, I'm Pedro Cantú! 👋
 
 I'm a Computer Science Engineering graduate from the Autonomous University of San Luis Potosí (UASLP). My passion for computing covers a broad spectrum, from the intricate details of hardware and computer architecture to the ever-evolving world of software development. Here's a little about me:
@@ -14,18 +14,17 @@ I'm a Computer Science Engineering graduate from the Autonomous University of Sa
 
 ### 🛠️ My Tech Toolbox
 Here are some of the technologies I love to work with:
-- **Languages**: C (first programming language), Python (for its versatility), C#, PHP
-- **Frameworks**: Entity Framework, Laravel
+- **Languages**: C (first programming language), Python (for its versatility), C#, PHP, JS
+- **Frameworks**: Entity Framework, Laravel, Express, Angular, Vue, Django
 - **DevOps Tools**: Docker, Kubernetes, Jenkins, Terraform, GitHub Actions
 - **Cloud Platforms**: AWS, Azure, Google Cloud
 - **Other Skills**: CI/CD pipelines, cloud infrastructure, network security
 
 ### 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/pedrocantu) — Let's connect professionally!
+- 💼 [LinkedIn](https://www.linkedin.com/in/) — Let's connect professionally!
 - 🌐 [Website](https://pedrocantu.dev) — Discover more about my projects.
 - 📧 [Email](mailto:contact@pedrocantu.dev) — Feel free to reach out for collaboration or just a friendly chat!
 
-[![Twitter Badge](https://img.shields.io/badge/-@PedroCantu-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/pedrocantu)](https://twitter.com/pedrocantu) 
 [![Linkedin Badge](https://img.shields.io/badge/-Pedro_Cantú-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrocantu) 
 [![GitHub Badge](https://img.shields.io/badge/-PedroCantuDev-333?style=flat&labelColor=333&logo=github&logoColor=white)](https://github.com/PedroCantu-Dev) 
 [![Mail Badge](https://img.shields.io/badge/-Pedro_Cantú-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:contact@pedrocantu.dev)
@@ -57,14 +56,14 @@ Here are some of the technologies I love to work with:
 - Delving into AI projects for fun to broaden my understanding of data analytics.
 
 ### Tutorials and Content
-- Sharing my DevSecOps journey on [YouTube](https://youtube.com/channel/fictitious-channel) soon!
+- Sharing my DevSecOps journey on [YouTube](https://youtube.com/channel/) soon!
 - Blog posts and guides on secure software development will be available on my website.
 
 ### Profile Views Counter 👁️‍🗨️
 [![Pedro Cantú profile views](https://u8views.com/api/v1/github/profiles/fictitious-id/views/day-week-month-total-count.svg)](https://u8views.com/github/fictitious-id)
 
 ### 📫 Business Inquiries
-- 📄 [My Resume/CV](https://drive.google.com/file/d/fictitious-resume-link/view?usp=sharing)
+- 📄 [My Resume/CV]()
 - 💼 contact@pedrocantu.dev
 
 Thanks for stopping by! I look forward to connecting with you and creating something awesome together! 🚀
