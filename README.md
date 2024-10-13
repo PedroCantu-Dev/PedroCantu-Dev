@@ -26,8 +26,6 @@ Here are some of the technologies I love to work with:
 - 📧 [Email](mailto:contact@pedrocantu.dev) — Feel free to reach out for collaboration or just a friendly chat!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Pedro_Cantú-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrocantu) 
-[![GitHub Badge](https://img.shields.io/badge/-PedroCantuDev-333?style=flat&labelColor=333&logo=github&logoColor=white)](https://github.com/PedroCantu-Dev) 
-[![Mail Badge](https://img.shields.io/badge/-Pedro_Cantú-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:contact@pedrocantu.dev)
 
 ### 📊 GitHub Stats
 <div align="center">
