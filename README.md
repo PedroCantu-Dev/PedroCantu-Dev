@@ -58,9 +58,6 @@ Here are some of the technologies I love to work with:
 - Sharing my DevSecOps journey on [YouTube](https://youtube.com/channel/) soon!
 - Blog posts and guides on software development will be available on my website.
 
-### Profile Views Counter 👁️‍🗨️
-[![Pedro Cantú profile views](https://u8views.com/api/v1/github/profiles/fictitious-id/views/day-week-month-total-count.svg)](https://u8views.com/github/PedroCantu-Dev)
-
 ### 📫 Business Inquiries
 - 📄 [My Resume/CV] (please ask for it on my webpage or social media)
 - 💼 contact@pedrocantu.com
