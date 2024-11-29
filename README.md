@@ -26,7 +26,7 @@ Here are some of the technologies I love to work with:
 - 🌐 [Website](https://helloworld.pedrocantu.com) — Discover more about my projects.
 - 📧 [Email](mailto:contact@pedrocantu.com) — Feel free to reach out for collaboration or just a friendly chat!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Pedro_Cantú-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrocantu) 
+[![Linkedin Badge](https://img.shields.io/badge/-Pedro_Cantú-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-cantú) 
 
 ### 📊 GitHub Stats
 <div align="center">
@@ -42,7 +42,7 @@ Here are some of the technologies I love to work with:
 ### 👨‍💻 Current Projects
 - Building a **DevSecOps pipeline** for scalable microservices.
 - Experimenting with **cloud-native** solutions to improve deployment speed.
-- Working on **music production** as a creative outlet when not immersed in code.
+- Working on **music production** as a creative outlet when not immersed in I.T.
 
 ### 🏆 Achievements
 - Successfully transitioned multiple applications to cloud environments using CI/CD pipelines.
@@ -59,10 +59,10 @@ Here are some of the technologies I love to work with:
 - Blog posts and guides on software development will be available on my website.
 
 ### Profile Views Counter 👁️‍🗨️
-[![Pedro Cantú profile views](https://u8views.com/api/v1/github/profiles/fictitious-id/views/day-week-month-total-count.svg)](https://u8views.com/github/fictitious-id)
+[![Pedro Cantú profile views](https://u8views.com/api/v1/github/profiles/fictitious-id/views/day-week-month-total-count.svg)](https://u8views.com/github/PedroCantu-Dev)
 
 ### 📫 Business Inquiries
-- 📄 [My Resume/CV]()
+- 📄 [My Resume/CV](ask for it on my webpage or social media)
 - 💼 contact@pedrocantu.com
 
 Thanks for stopping by! I look forward to connecting with you and creating something awesome together! 🚀
