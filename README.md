@@ -6,8 +6,8 @@ I'm a Computer Science Engineering graduate from the Autonomous University of Sa
 ### 🚀 About Me
 - 🔭 I’m currently focused on building a career in **DevSecOps**, ensuring secure and reliable application deployment.
 - 🌱 I’m passionate about continuous improvement in production environments and love automating processes to enhance development workflows.
-- 👯 Although I admire **Artificial Intelligence** and **Data Science**, I see myself as a DevSecOps specialist who occasionally explores these fields as a hobby.
-- 🤖 I have a deep love for hardware and computer architecture but understand that my true career lies in cloud and software automation.
+- 👯 Although I admire **Artificial Intelligence** and **Data Science**, I see myself as a DevOps specialist who occasionally explores these fields as a hobby.
+- 🤖 I have a deep love for hardware and computer architecture as well.
 - ⚙️ I’m fascinated by **cloud services** and enjoy creating scalable solutions using modern infrastructure.
 - 💬 Ask me about deploying secure applications, cloud infrastructure, or my favorite automation tools.
 - 🎶 When I'm not coding, I'm likely making music or working out to maintain a healthy lifestyle.
@@ -16,14 +16,14 @@ I'm a Computer Science Engineering graduate from the Autonomous University of Sa
 Here are some of the technologies I love to work with:
 - **Languages**: C (first programming language), Python (for its versatility), C#, PHP, JS
 - **Frameworks**: Entity Framework, Laravel, Express, Angular, Vue, Django
-- **DevOps Tools**: Docker, Kubernetes, Jenkins, Terraform, GitHub Actions
-- **Cloud Platforms**: AWS, Azure, Google Cloud
+- **DevOps Tools**: Docker, Kubernetes, Jenkins, GitHub Actions
+- **Cloud Platforms**: AWS, Google Cloud
 - **Other Skills**: CI/CD pipelines, cloud infrastructure, network security
 
 ### 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/) — Let's connect professionally!
-- 🌐 [Website](https://pedrocantu.dev) — Discover more about my projects.
-- 📧 [Email](mailto:contact@pedrocantu.dev) — Feel free to reach out for collaboration or just a friendly chat!
+- 💼 [LinkedIn](https://www.linkedin.com/in/pedro-cantú) — Let's connect professionally!
+- 🌐 [Website](https://helloworld.pedrocantu.com) — Discover more about my projects.
+- 📧 [Email](mailto:contact@pedrocantu.com) — Feel free to reach out for collaboration or just a friendly chat!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Pedro_Cantú-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrocantu) 
 
@@ -34,7 +34,7 @@ Here are some of the technologies I love to work with:
 </div>
 
 ### 🎯 Fun Goals
-- 🌐 Continue mastering DevSecOps practices and secure cloud deployment.
+- 🌐 Continue mastering DevOps practices and secure cloud deployment.
 - 📚 Stay updated on AI and data science trends, even if just as a personal interest.
 - 💻 Automate everything from infrastructure setup to application testing.
 
@@ -44,9 +44,9 @@ Here are some of the technologies I love to work with:
 - Working on **music production** as a creative outlet when not immersed in code.
 
 ### 🏆 Achievements
-- Successfully transitioned multiple applications to secure cloud environments using CI/CD pipelines.
-- Hands-on experience with **C**, **Python**, and **DevSecOps** practices in real-world projects.
-- **Community Contributor**: Passionate about sharing knowledge on secure software development.
+- Successfully transitioned multiple applications to cloud environments using CI/CD pipelines.
+- Hands-on experience with **PHP**, **Python**, and **DevOps** practices in real-world projects.
+- **Community Contributor**: Passionate about sharing knowledge on software development.
 
 ### 🌱 What I'm Currently Learning
 - Advanced concepts in **cloud-native** security and infrastructure as code (IaC).
@@ -55,13 +55,13 @@ Here are some of the technologies I love to work with:
 
 ### Tutorials and Content
 - Sharing my DevSecOps journey on [YouTube](https://youtube.com/channel/) soon!
-- Blog posts and guides on secure software development will be available on my website.
+- Blog posts and guides on software development will be available on my website.
 
 ### Profile Views Counter 👁️‍🗨️
 [![Pedro Cantú profile views](https://u8views.com/api/v1/github/profiles/fictitious-id/views/day-week-month-total-count.svg)](https://u8views.com/github/fictitious-id)
 
 ### 📫 Business Inquiries
 - 📄 [My Resume/CV]()
-- 💼 contact@pedrocantu.dev
+- 💼 contact@pedrocantu.com
 
 Thanks for stopping by! I look forward to connecting with you and creating something awesome together! 🚀
