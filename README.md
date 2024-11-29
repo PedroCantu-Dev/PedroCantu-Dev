@@ -62,7 +62,7 @@ Here are some of the technologies I love to work with:
 [![Pedro Cantú profile views](https://u8views.com/api/v1/github/profiles/fictitious-id/views/day-week-month-total-count.svg)](https://u8views.com/github/PedroCantu-Dev)
 
 ### 📫 Business Inquiries
-- 📄 [My Resume/CV](ask for it on my webpage or social media)
+- 📄 [My Resume/CV] (please ask for it on my webpage or social media)
 - 💼 contact@pedrocantu.com
 
 Thanks for stopping by! I look forward to connecting with you and creating something awesome together! 🚀
