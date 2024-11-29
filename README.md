@@ -9,7 +9,7 @@ I'm a Computer Science Engineering graduate from the Autonomous University of Sa
 - 👯 Although I admire **Artificial Intelligence** and **Data Science**, I see myself as a DevOps specialist who occasionally explores these fields as a hobby.
 - 🤖 I have a deep love for hardware and computer architecture as well.
 - ⚙️ I’m fascinated by **cloud services** and enjoy creating scalable solutions using modern infrastructure.
-- 💬 Ask me about deploying secure applications, cloud infrastructure, or my favorite automation tools.
+- 💬 Ask me about deploying applications, cloud infrastructure, or my favorite automation tools.
 - 🎶 When I'm not coding, I'm likely making music or working out to maintain a healthy lifestyle.
 
 ### 🛠️ My Tech Toolbox
