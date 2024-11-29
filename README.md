@@ -15,7 +15,8 @@ I'm a Computer Science Engineering graduate from the Autonomous University of Sa
 ### 🛠️ My Tech Toolbox
 Here are some of the technologies I love to work with:
 - **Languages**: C (first programming language), Python (for its versatility), C#, PHP, JS
-- **Frameworks**: Entity Framework, Laravel, Express, Angular, Vue, Django
+- **Frontend Frameworks**: Angular, Vue
+- **Backend Frameworks**: Entity Framework, Laravel, Express, Django
 - **DevOps Tools**: Docker, Kubernetes, Jenkins, GitHub Actions
 - **Cloud Platforms**: AWS, Google Cloud
 - **Other Skills**: CI/CD pipelines, cloud infrastructure, network security
