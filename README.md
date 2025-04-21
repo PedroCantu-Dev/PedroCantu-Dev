@@ -58,7 +58,7 @@ Here are some of the technologies I love to work with:
 - Blog posts and guides on software development will be available on my website.
 
 ### 📫 Business Inquiries
-- 📄 [My Resume/CV](https://pedrodejesus.blog/peticion-de-cv/) (please ask for it on my webpage or social media)
+- 📄 [My Resume/CV](https://pedrodejesus.blog/en/cv-request/) (please ask for it on my webpage or social media)
 - 💼 contact@pedrocantu.com
 
 Thanks for stopping by! I look forward to connecting with you and creating something awesome together! 🚀
